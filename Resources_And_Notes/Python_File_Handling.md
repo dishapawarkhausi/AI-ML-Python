@@ -1,4 +1,4 @@
-# Python File Handling - All Important Commands
+# Python File Handling - All Important Methods
 
 ## 1. **Opening and Closing Files**
 ```python
@@ -90,4 +90,4 @@ print(file_path.exists())  # Check if file exists
 ```
 
 ---
-This guide covers all essential file handling commands in Python. 🚀
+This guide covers all essential file handling methods in Python. 🚀
